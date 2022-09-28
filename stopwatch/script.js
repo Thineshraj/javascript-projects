@@ -1,4 +1,4 @@
-'use strick';
+'use strict';
 
 const btnStart = document.querySelector('.btn-start');
 const btnStop = document.querySelector('.btn-stop');
