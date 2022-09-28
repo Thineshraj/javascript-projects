@@ -6,8 +6,8 @@ const btnReset = document.querySelector('.btn-reset');
 const appendSeconds = document.querySelector('.seconds');
 const appendTens = document.querySelector('.tens');
 
-let seconds = 00;
-let tens = 00;
+let seconds = 0;
+let tens = 0;
 let interval;
 
 const startTimer = () => {
