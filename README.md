@@ -2,4 +2,4 @@
 JavaScript projects from Beginning to Advance
 
 ## Projects
-1. [Stopwatch Project](stopwatch-thineshraj.netlify.app)
+1. [Stopwatch Project](https://stopwatch-thineshraj.netlify.app)
