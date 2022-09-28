@@ -1,0 +1,34 @@
+body {
+  background-color: rgb(24, 180, 84);
+}
+
+.container {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.title {
+  font-size: 3.5rem;
+  color: #fff;
+}
+.time {
+  font-size: 2.5rem;
+  color: #a01f1f;
+}
+.btn {
+  font-size: 1.9rem;
+  width: 8rem;
+  height: 3.5rem;
+  background-color: #fcff31;
+  border: none;
+  color: #3a0d0d;
+  cursor: pointer;
+}
+.btn:not(:last-child) {
+  margin-right: 0.9rem;
+}
+.btn:active {
+  background-color: #d1d418;
+}
