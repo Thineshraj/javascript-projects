@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Orbitron:wght@400;500;600;700&display=swap');
+
+body {
+  background-color: #000;
+  color: #fff;
+}
+.digitalClock-container {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #31d4fe;
+  font-family: Orbitron;
+  box-sizing: border-box;
+}
+
+.digitalClock {
+  font-size: 2.5rem;
+  letter-spacing: 7px;
+}
+.amORpm {
+  color: #dadada;
+}
